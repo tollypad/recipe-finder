@@ -1,5 +1,7 @@
 # Recipe Finder
 
+**Live Demo:** [https://recipe-finder-lyart-seven.vercel.app](https://recipe-finder-lyart-seven.vercel.app)
+
 A modern recipe search application with dietary filters and favorites. Find recipes tailored to your dietary needs and save your favorites for quick access.
 
 ## Features
